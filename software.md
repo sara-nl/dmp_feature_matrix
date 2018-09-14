@@ -2,6 +2,16 @@ Software/tools:
 
 1. [iRODS](https://irods.org/) 
 Used for data virtualization, federation, discovery (from variety of storage resources), workflow automation via policy engine. 
+Description/Common usage
+Open Source 
+Architecture/Infrastructure
+Metadata management
+Polic Enforcement: 
+Layers: 
+Sharing/Publications: 
+Processing/Analysing tools 
+Graphical Interface: 
+
 2. [Denodo](https://www.denodo.com/en) 
 Creates data virtualization layer by connecting various  structured data sources. Provides  unified access for consuming applications.
 3. [CKAN](https://ckan.org/) 
