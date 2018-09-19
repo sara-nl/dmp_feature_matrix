@@ -1,6 +1,11 @@
 
 ### Data Management platform features and evaluation criterion
 
+Author: Sharif Islam 
+
+System Expert 
+
+Data Services, SURFsara (provides services in the field of supercomputers , networks, data storage and high-quality visualization) 
 
 The goal of this project is to evaluate various tools and software that can play a role in data management platform solution. This contains: 
 
