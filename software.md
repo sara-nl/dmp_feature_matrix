@@ -33,3 +33,4 @@ Focused on big data and data science applications (provides data management and 
 8. [StrongLink](https://www.strongboxdata.com/stronglink) 
 9. [Clowder](https://clowder.ncsa.illinois.edu/) 
 10. [GIN](https://web.gin.g-node.org/) Modern Research Data Management for Neuroscience
+11. [Datalad](https://www.datalad.org/) Datalad
