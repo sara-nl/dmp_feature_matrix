@@ -1,35 +1,40 @@
-Software/tools: 
+Software/tools 
+
+The software/tools in this list can be categorized the following way based on functions and requirement it fulfils.
+
+Data virtualization
+Data Federation 
+Repositories 
+Metadata management 
+Extension 
+
 
 1. [iRODS](https://irods.org/) 
- 
 
 <b> Description/Common usage</b>
 
 Used for data virtualization, federation, discovery (from variety of storage resources), workflow automation via policy engine.
 
-
 <b> Open Source </b>
   
-  Yes. 
+ Yes. 
   
 <b> Architecture/Infrastructure</b>
   
 * code base in c++
 * SQL database backend 
 * API/FUSE 
-* Flexible rule engine 
+* Flexible rule engine language 
 * Native authentication, PAM (e.g. redirecting to LDAP) / SSL , GSI, Kerberos
   
-<b> Metadata management and extension</b>
+<b> Metadata management and extensions</b>
 
 “The iCAT server stores metadata in the form of “triples” to its relational database. The triples consist of an attribute field, a value field, and a unit field. The content of each of these fields can be independently defined and applied. Metadata may be user-defined or applied automatically. By default, iRODS does not automatically apply any user-accessible metadata; the zone administrator must implement metadata automation in the iRODS rule engine.” (irods.org)
-
-<b> Policy Enforcement</b>
 
 
 <b>Layers: </b>
 
-We identified three layers: a) Data Source Layers b) Data Integration Layer c) Data Publisher Layer 
+We identified three layers: a) Data Source Layers b) Data Integration Layer c) Data Publishing Layer 
 
 DSL:
   
@@ -42,25 +47,20 @@ Data Integration Layer:
 
 IRODS have various features for this. Dynamic policy enforcement, rule engine.  iRODs also have federation feature where various geographically distributed 
 
-Data Publishing Layer: 
-
-Metalnx/YODA/iRODS ticket system/iRODS anonymous user+webdav/bridge to various other repositories. 
-
-<b>Sharing/Publications: </b>
-
-<b>Processing/Analysing tools </b>
 Rule engine (processing of small datasets and metadata can be added/customizable). 
 With QueryArrow one can query different iCAT catalogues no matter on which database technology they are built. With rule engine iRODS can work with datasets (i.e. subsetting of queried data, merging of different datasets and reformatting of data and metadata). Rule engine can also invoke external processing tools. 
 
 
-<b> Graphical Interface: </b>
-YODA 
+Data Publishing Layer (also GUI):
 
+Metalnx/YODA/iRODS ticket system/iRODS anonymous user+webdav/bridge to various other repositories. 
 
 2. [Denodo](https://www.denodo.com/en) 
+
 Creates data virtualization layer by connecting various  structured data sources. Provides  unified access for consuming applications.
 
 3. [CKAN](https://ckan.org/) 
+
 Data portal, repository
 
 4. [Figshare](https://figshare.com/) 
