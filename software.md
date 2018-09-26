@@ -8,7 +8,7 @@ Software/tools:
 Used for data virtualization, federation, discovery (from variety of storage resources), workflow automation via policy engine.
 
 
-<b> Open Source 
+<b> Open Source </b>
   
   Yes. 
   
