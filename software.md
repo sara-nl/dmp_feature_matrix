@@ -1,4 +1,18 @@
-Software/tools 
+### Software/tools 
+1. [iRODS](https://irods.org/) 
+2. [Denodo](https://www.denodo.com/en) 
+3. [CKAN](https://ckan.org/) 
+4. [Figshare](https://figshare.com/) 
+5. [Immuta](https://www.immuta.com/) 
+6. [Metadata Management for Applied Sciences (MASi)](https://www.sciencedirect.com/science/article/pii/S0167739X17305344) 
+7. [Starfish](http://www.starfishstorage.com/) 
+8. [StrongLink](https://www.strongboxdata.com/stronglink) 
+9. [Clowder](https://clowder.ncsa.illinois.edu/) 
+10. [GIN](https://web.gin.g-node.org/) Modern Research Data Management for Neuroscience
+11. [Datalad](https://www.datalad.org/) Datalad
+
+
+### Categories 
 
 The software/tools in this list can be categorized the following way based on functions and requirement it fulfils.
 
@@ -8,6 +22,8 @@ The software/tools in this list can be categorized the following way based on fu
 * Archive 
 * Metadata management 
 * Extension 
+
+### Details 
 
 
 1. [iRODS](https://irods.org/) 
