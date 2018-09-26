@@ -2,11 +2,12 @@ Software/tools
 
 The software/tools in this list can be categorized the following way based on functions and requirement it fulfils.
 
-Data virtualization
-Data Federation 
-Repositories 
-Metadata management 
-Extension 
+* Data virtualization
+* Data Federation 
+* Repositories (need a definition) 
+* Archive 
+* Metadata management 
+* Extension 
 
 
 1. [iRODS](https://irods.org/) 
