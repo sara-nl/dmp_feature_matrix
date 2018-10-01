@@ -16,12 +16,15 @@
 
 The software/tools in this list can be categorized the following way based on functions and requirement it fulfils.
 
-* Data virtualization
-* Data Federation 
-* Repositories (need a definition) 
-* Archive 
-* Metadata management 
-* Extension 
+(Data Management Abstraction and Layers)
+
+* Storage Abstration Layer 
+* Data Virtualisation / Data Source Discovery Layer 
+* Data Movement Layer 
+* Fedreation Layer 
+* Consuming/Publishing Layer 
+* Policy 
+* Metadata 
 
 ### Details 
 
