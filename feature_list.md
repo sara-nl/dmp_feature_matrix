@@ -15,3 +15,14 @@ Broadly we want to cover the following:
 * Repositories (including long term archive) 
 * Sharing/Publication
 * Extensions/external tools 
+
+
+Data Management Abstraction and Layers 
+
+* Storage Abstration Layer 
+* Data Virtualisation / Data Source Discovery Layer 
+* Data Movement Layer 
+* Fedreation Layer 
+* Consuming/Publishing Layer 
+* Policy 
+* Metadata 
