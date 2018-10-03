@@ -20,7 +20,20 @@ Data Management or Research Data Management (RDM) in particular is a broad term 
 In the commercial/non-academic business world, "Data Warehouse" and "Data Lake" are two prominent terms. Some of the tools we evaluated came from that world. We are interested in the functionalities that fit our requirements and use cases regardless of the term. 
 
 
-This contains: 
+#### Data Management Abstraction and Layers
+
+
+Storage Abstration Layer
+Data Virtualisation / Data Source Discovery Layer
+Data Movement Layer
+Fedreation Layer
+Consuming/Publishing Layer
+Policy
+Metadata
+
+![Data Management Layers](dmp_layers_abs.png)
+
+This project contains: 
 
 1. Feature list
 2. software/product list 
