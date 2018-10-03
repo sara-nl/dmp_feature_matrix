@@ -23,13 +23,13 @@ In the commercial/non-academic business world, "Data Warehouse" and "Data Lake" 
 #### Data Management Abstraction and Layers
 
 
-Storage Abstration Layer
-Data Virtualisation / Data Source Discovery Layer
-Data Movement Layer
-Fedreation Layer
-Consuming/Publishing Layer
-Policy
-Metadata
+* Storage Abstration Layer
+* Data Virtualisation / Data Source Discovery Layer
+* Data Movement Layer
+* Fedreation Layer
+* Consuming/Publishing Layer
+* Policy
+* Metadata
 
 ![Data Management Layers](dmp_layers_abs.png)
 
