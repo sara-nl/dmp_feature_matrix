@@ -36,7 +36,7 @@ In the commercial/non-academic business world, "Data Warehouse" and "Data Lake" 
 This project contains: 
 
 1. Feature list
-2. software/product list 
+2. [software/product list](https://github.com/sara-nl/dmp_feature_matrix/blob/master/software.md)
 3. Detail test results/product review (if exists and possible) 
 
 
