@@ -114,8 +114,11 @@ Nice API. lots of focus on Metadata integration, extraction.
 Using GIT annex for data management and version control. 
 
 
-11. [Datalad](https://www.datalad.org/) Datalad
+11. [Datalad](https://www.datalad.org/) 
+
 Another project using GIT annex. Also can search external data repository. 
+
+This can be a nice solution to combine a large data set (either ingested via webDAV or connecting to a exsiting resource) with code repository and have a git like view to management and see the data structures. 
 
 
 12. [Claritynow](https://dataframeworks.com/products/claritynow)
@@ -129,5 +132,6 @@ BI tool.
 
 15. [Cloudian](https://cloudian.com/solutions/data-management/) 
 Commercial 
+
 More of a storage management solution. However can be customized to create policies to managed tiered storage and hybrid clouds. 
 
