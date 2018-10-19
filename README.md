@@ -10,7 +10,7 @@ Data Services Unit, <br>
 
 *Work in Progress 
 
-The goal of this project is to evaluate various tools and software that can play a role in data management platform solution(s). The primary community we support is the Dutch research and educational institutes thus some of these ideas came forth based on specific use cases we encountered. We hope to make this document suitable for a wider audience. Our goal is to think about both general and specific use cases and then highlight the components and strengths of each tool. Each use case and research data management need are unique and requires various customizations. Therefore, a comprehensive data management platform will include a variety of solutions and customizations. 
+The goal of this project is to evaluate various tools and software that can play a role in data management platform solution(s). The primary community we support is the Dutch research and educational institutes thus some of these ideas came are based on specific use cases we encountered. We hope to make this document suitable for a wider audience. Our goal is to think about both general and specific use cases and then highlight the components and strengths of each tool. Each use case and research data management need are unique and requires various customizations. Therefore, a comprehensive data management platform will include a variety of solutions and customizations. 
 
 
 #### Background and motivation 
