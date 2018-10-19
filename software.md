@@ -12,6 +12,8 @@
 11. [Datalad](https://www.datalad.org/) 
 12. [Claritynow](https://dataframeworks.com/products/claritynow)
 13. HPE [DMF](https://www.hpe.com/us/en/product-catalog/detail/pip.hpe-data-management-framework.1010144088.html) 
+14. [Pentaho](https://www.hitachivantara.com/go/pentaho.html) 
+15. [Cloudian](https://cloudian.com/solutions/data-management/) 
 
 ### Categories 
 
@@ -61,9 +63,11 @@ Metalnx/YODA/iRODS ticket system/iRODS anonymous user+webdav/bridge to various o
 
 2. [Denodo](https://www.denodo.com/en) 
 
-Creates data virtualization layer by connecting various  structured data sources. Provides  unified access for consuming applications. Not open source but a free express version is available. There is an active user community (contains open forum/mailing list). 
+Creates a data virtualization layer by connecting various  structured data sources. Provides  unified access for consuming applications. Not open source but a free express version is available. There is an active user community (contains open forum/mailing list). 
 
 One the main advantages of Denodo is that the datasets (or databases) do not need to be physically copied or moved. For example, if we need to combine a mySQL database and a csv file, usually one have to import the csv file into the database first and then run the queries. In Denodo part of the data cane be copied to the cache instead of the whole datasets. The Denodo server pushes down as much processing as it can to the data sources, but it still has to retrieve the data from them and perform the join. 
+
+There is also a nice RESTful API option that can provide access to customized reports/views. 
 
 
 3. [CKAN](https://ckan.org/) 
@@ -71,6 +75,7 @@ One the main advantages of Denodo is that the datasets (or databases) do not nee
 Data portal, repository. Open Source. 
 
 4. [Figshare](https://figshare.com/) 
+
 Digital repository / data publishing platform. Commercial/ not open source. 
 
 
@@ -118,4 +123,11 @@ Another project using GIT annex. Also can search external data repository.
 
 13. HPE [DMF](https://www.hpe.com/us/en/product-catalog/detail/pip.hpe-data-management-framework.1010144088.html) 
 
+14. [Pentaho](https://www.hitachivantara.com/go/pentaho.html) 
+Commercial. 
+BI tool. 
+
+15. [Cloudian](https://cloudian.com/solutions/data-management/) 
+Commercial 
+More of a storage management solution. However can be customized to create policies to managed tiered storage and hybrid clouds. 
 
