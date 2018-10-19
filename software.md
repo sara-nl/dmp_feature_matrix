@@ -14,6 +14,8 @@
 13. HPE [DMF](https://www.hpe.com/us/en/product-catalog/detail/pip.hpe-data-management-framework.1010144088.html) 
 14. [Pentaho](https://www.hitachivantara.com/go/pentaho.html) 
 15. [Cloudian](https://cloudian.com/solutions/data-management/) 
+16. [Arvados](https://arvados.org/) 
+17. [Datera](https://datera.io/) 
 
 ### Categories 
 
@@ -135,3 +137,11 @@ Commercial
 
 More of a storage management solution. However can be customized to create policies to managed tiered storage and hybrid clouds. 
 
+16. [Arvados](https://arvados.org/)
+
+Open source (focused on bioinformatics) 
+With CWL (Commmon workflow language). 
+
+
+17. [Datera](https://datera.io/) 
+Commercial. 
