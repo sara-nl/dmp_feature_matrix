@@ -10,18 +10,17 @@ Data Services Unit, <br>
 
 *Work in Progress 
 
-The goal of this project is to evaluate various tools and software that can play a role in data management platform solution(s). The primary community that we support is the Dutch research and educational institutes so some of these ideas came forth based on specific use cases we encountered. We hope to make this document fit for a wider audience. Our goal is to think about both general and specific use cases and then try to highlight the components and strengths of each tool. Each use case and research data management need are unique and requires various customizations. So a comprehensive data management platform will include a variety of solutions and customizations. 
+The goal of this project is to evaluate various tools and software that can play a role in data management platform solution(s). The primary community we support is the Dutch research and educational institutes thus some of these ideas came forth based on specific use cases we encountered. We hope to make this document suitable for a wider audience. Our goal is to think about both general and specific use cases and then highlight the components and strengths of each tool. Each use case and research data management need are unique and requires various customizations. Therefore a comprehensive data management platform will include a variety of solutions and customizations. 
 
 
 #### Background and motivation 
 
-Data Management or Research Data Management (RDM) in particular is a broad term that encapsulates activities and tools that are responsible for planning and executing actions on digital data before, during, and after a research project ([1](https://www.dtls.nl/fair-data/research-data-management/research-data-management/)). We refer to these different stages as research data life cycle and in each stages there are variety of different challenges for data management. There are also different terms and concepts employed often times for same sets of activities. Keeping these introduction in mind we came up with a set of features that support the various stages. Combining these features and tools thus often times result in a different data management solutions. 
+Data Management or Research Data Management (RDM) in particular is a broad term that encapsulates activities and tools that are responsible for planning and executing actions on digital data before, during, and after a research project ([1](https://www.dtls.nl/fair-data/research-data-management/research-data-management/)). We refer to these different stages as research data life cycle and in each stages there are variety of different challenges for data management. There are also different terms and concepts employed often times for same sets of activities. Keeping these in mind we came up with a set of abstraction layers that support the various stages. Combining these layers and tools thus often times results in different data management solutions. 
 
 In the commercial/non-academic business world, "Data Warehouse" and "Data Lake" are two prominent terms. Some of the tools we evaluated came from that world. We are interested in the functionalities that fit our requirements and use cases regardless of the term. 
 
 
 #### Data Management Abstraction and Layers
-
 
 * Storage Abstration Layer
 * Data Virtualisation / Data Source Discovery Layer
@@ -42,3 +41,8 @@ This project contains:
 
 Reference 
 1. https://www.dtls.nl/fair-data/research-data-management/research-data-management/
+
+####  Acknowledgement 
+* Christine Staiger, SURFsara 
+* Arthur Newton, SURFsara 
+* Terrell Russell, iRODS Consortium / RENCI 
