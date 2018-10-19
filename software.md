@@ -11,6 +11,7 @@
 10. [GIN](https://web.gin.g-node.org/) Modern Research Data Management for Neuroscience
 11. [Datalad](https://www.datalad.org/) 
 12. [Claritynow](https://dataframeworks.com/products/claritynow)
+13. HPE [DMF](https://www.hpe.com/us/en/product-catalog/detail/pip.hpe-data-management-framework.1010144088.html) 
 
 ### Categories 
 
@@ -115,6 +116,6 @@ Another project using GIT annex. Also can search external data repository.
 12. [Claritynow](https://dataframeworks.com/products/claritynow)
 
 
-13. HPE [DMF] (https://www.hpe.com/us/en/product-catalog/detail/pip.hpe-data-management-framework.1010144088.html) 
+13. HPE [DMF](https://www.hpe.com/us/en/product-catalog/detail/pip.hpe-data-management-framework.1010144088.html) 
 
 
