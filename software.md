@@ -16,6 +16,7 @@
 15. [Cloudian](https://cloudian.com/solutions/data-management/) 
 16. [Arvados](https://arvados.org/) 
 17. [Datera](https://datera.io/) 
+18. [OneData](https://onedata.org/#/home)
 
 ### Categories 
 
@@ -145,3 +146,9 @@ With CWL (Commmon workflow language).
 
 17. [Datera](https://datera.io/) 
 Commercial. 
+
+18. [OneData](https://onedata.org/#/home)
+
+Provides access globally distributed storage zones. 
+Macaroon based bearer token 
+EOSC-hub will use this as the main data management tool. 
