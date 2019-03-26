@@ -17,8 +17,8 @@
 16. [Arvados](https://arvados.org/) 
 17. [Datera](https://datera.io/) 
 18. [OneData](https://onedata.org/#/home)
-19. [Rucio] (https://rucio.cern.ch/)
-20. [OpenDataSoft] (https://www.opendatasoft.com/)
+19. [Rucio](https://rucio.cern.ch/)
+20. [OpenDataSoft](https://www.opendatasoft.com/)
 
 ### Categories 
 
